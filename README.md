@@ -12,6 +12,9 @@ We give a random word whose letters are mixed and you are asked to write the cor
 ***
  * Check : check your answer
  * Reset : chose another word
+ ---
+ ###Test it using the link :
+ https://said-bachar.github.io/Simple-game-with-Python/
  
 ## Languages used :
 * Python
