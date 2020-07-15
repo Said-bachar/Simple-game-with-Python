@@ -6,9 +6,9 @@ It's a simple game created by python, in which it ask to find the word search.
 We give a random word whose letters are mixed and you are asked to write the corresponding word.
 
 ## GUI Of The GWG game :
-![Home Screen](./Screenshot/Gui.png)
+![Home Screen](Screenshot/Gui.png)
 *** 
-![Home Screen](./Screenshot/rightAnswer.png)
+![Home Screen](Screenshot/rightAnswer.png)
 ***
  * Check : check your answer
  * Reset : chose another word
@@ -23,4 +23,4 @@ We give a random word whose letters are mixed and you are asked to write the cor
 * Random
 
 Images are in Screenshot.
-Any Advice 
+Any Advice ...
